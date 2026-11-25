@@ -1,0 +1,1 @@
+{"description":"One Line, One Laugh — make.fun entry: a single funny line written to /output/entry.txt","license":"MIT","main":"main.ts","name":"makefun-one-line-laugh-plucky","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
